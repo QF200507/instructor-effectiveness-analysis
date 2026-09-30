@@ -129,11 +129,7 @@ Therefore, the high classification performance indicates that the model can succ
 - Scikit-learn
 - Jupyter Notebook
 
-## Project Structure
 
-```text
-instructor-effectiveness-analysis/
-│
 ├── instructor_effectiveness_analysis.ipynb
 ├── README.md
 └── dataset/
